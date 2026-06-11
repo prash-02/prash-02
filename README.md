@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🧑‍💻 About Me
+<!--## 🧑‍💻 About Me
 
 ```yaml
 name       : Prashant Kushwaha
@@ -59,6 +59,7 @@ Embedded C, designing digital circuits in Verilog HDL, and building IoT systems 
 circuit-level design all the way through to a web-based user interface.
 
 ---
+-->
 
 ## 🔧 Tech Stack
 
@@ -137,7 +138,7 @@ photo and video-based spoofing attacks.
 - Implemented CNN-based anti-spoofing layer to distinguish real faces from static/video replays
 - End-to-end pipeline from image acquisition to identity verification
 
-[![View Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://prashantgtu.github.io/Portfolio/)
+<!--[![View Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://prashantgtu.github.io/Portfolio/) -->
 
 ---
 
@@ -152,7 +153,7 @@ photo and video-based spoofing attacks.
 > 📌 *Currently completing: NPTEL — Hardware Modeling using Verilog (IIT Kharagpur)*
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -170,17 +171,7 @@ photo and video-based spoofing attacks.
 
 ---
 
-## 🎓 Education
 
-| | |
-|---|---|
-| 🏫 **College** | Dr. S. & S.S. Ghandhy Government Engineering College, Surat |
-| 🎓 **Degree** | B.E. — Electronics and Communication Engineering (GTU) |
-| 📅 **Duration** | Aug 2023 – May 2027 |
-| 📊 **CGPA** | **8.3** |
-| 📍 **Location** | Surat, Gujarat, India |
-
----
 
 ## 💼 Experience
 
@@ -189,6 +180,7 @@ Streamlined recruitment pipeline and drove candidate engagement across digital p
 built structured data collection systems reducing manual coordination time.
 
 ---
+-->
 
 ## 📫 Let's Connect
 
@@ -196,7 +188,7 @@ built structured data collection systems reducing manual coordination time.
 
 | Platform | Link |
 |---|---|
-| 💼 LinkedIn | [linkedin.com/in/YOUR_LINKEDIN_HANDLE](https://linkedin.com/in/prashnatkushwaha-ec) |
+| 💼 LinkedIn | [linkedin.com/in/prashantkushwaha-ec](https://linkedin.com/in/prashantkushwaha-ec) |
 | 🌐 Portfolio | [prashantgtu.github.io/Portfolio](https://prashantgtu.github.io/Portfolio/) |
 | 📧 Email | [kushwaha7757@gmail.com](mailto:kushwaha7757@gmail.com) |
 | 📍 Location | Surat, Gujarat, India |
