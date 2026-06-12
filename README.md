@@ -1,206 +1,189 @@
-## Hi there 👋
 
-<!--
-**prash-02/prash-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
 
-<h1>Hi there, I'm Prashant Kushwaha 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00B4D8&center=true&vCenter=true&random=false&width=620&lines=ECE+Final+Year+%40+GTU+%7C+CGPA+8.3;Embedded+Systems+%7C+VLSI+Enthusiast;Firmware+Developer+%7C+IoT+Builder;From+Circuit+Design+to+Deployed+Systems)](https://git.io/typing-svg)
 
-<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prashantkushwaha-ec)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://prashantgtu.github.io/Portfolio/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kushwaha7757@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=prashantgtu&color=00B4D8&style=for-the-badge&label=PROFILE+VIEWS)](https://github.com/prash-02)
+<!-- ╔══════════════════════════════════════════════════════════╗ -->
+<!-- ║       PRASHANT KUSHWAHA — GitHub Profile README          ║ -->
+<!-- ║       Domain: Embedded Systems | VLSI Design             ║ -->
+<!-- ║   Replace: YOUR_LINKEDIN_HANDLE  YOUR_EMAIL@gmail.com    ║ -->
+<!-- ║            REPO_ANTITHEFT  REPO_SURVCAR                  ║ -->
+<!-- ╚══════════════════════════════════════════════════════════╝ -->
 
-<br/>
+<!-- ══ WAVE HEADER ══════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:023E8A,100:0D1117&height=230&section=header&text=Prashant+Kushwaha&fontSize=58&fontColor=00B4D8&animation=fadeIn&fontAlignY=38&desc=Embedded+Systems+%7C+VLSI+Design+%7C+Firmware+Developer&descAlignY=60&descSize=20&descColor=94A3B8"/>
 
-![Open to Internships](https://img.shields.io/badge/🔍_Open_to-Embedded_Systems_|_VLSI_Internship-brightgreen?style=for-the-badge)
+<!-- ══ TYPING SVG ════════════════════════════════════════════════ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&lines=👋+Hi%2C+I'm+Prashant+Kushwaha;⚡+Embedded+Systems+%26+VLSI+Enthusiast;🔌+ESP32+%7C+ARM+Cortex+%7C+FPGA+%7C+Verilog+HDL;🛠️+Building+Hardware+That+Talks+to+the+World;🎓+B.E.+ECE+%40+GTU+%7C+CGPA+8.3+%7C+Final+Year" alt="Typing SVG"/>
+</p>
 
-</div>
+<!-- ══ SOCIAL BADGES ════════════════════════════════════════════ -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE">
+    <img src="https://img.shields.io/badge/LinkedIn-prashant--kushwaha-ffffff?style=for-the-badge&logo=linkedin&logoColor=131313&labelColor=131313" alt="LinkedIn"/>
+  </a>
+  <a href="https://prashantgtu.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-prashantgtu.github.io-ffffff?style=for-the-badge&labelColor=131313" alt="Portfolio"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-your%40email.com-ffffff?style=for-the-badge&logo=gmail&logoColor=131313&labelColor=131313" alt="Gmail"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=prashantgtu&abbreviated=true&label=Profile+Views&style=for-the-badge&color=131313&labelColor=ffffff" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/🔍_Open_to-Embedded+Systems+%7C+VLSI+Internship-ffffff?style=for-the-badge&labelColor=023E8A" alt="Open to Internships"/>
+</p>
 
 ---
 
-<!--## 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
 ```yaml
 name       : Prashant Kushwaha
-education  : B.E. — Electronics & Communication Engineering
-college    : Dr. S. & S.S. Ghandhy Government Engineering College, Surat (GTU)
-year       : Final Year (7th Semester) | 2023 – 2027
-cgpa       : 8.3
+role       : Embedded Systems & VLSI Enthusiast | Final Year ECE
+college    : Dr. S. & S.S. Ghandhy Government Engineering College, Surat
+university : Gujarat Technological University (GTU)
+cgpa       : 8.3  |  year: 2023 → 2027  |  sem: entering_7th
+
+focus:
+  - ⚡  Embedded Firmware   →  ESP32, ARM Cortex, Arduino, Keil µVision
+  - 🔬  VLSI Design         →  Verilog HDL, Xilinx ISE, FPGA Prototyping
+  - 🌐  IoT Systems         →  Circuit Design → Firmware → Web Interface
+  - 🛠️  Simulation          →  Proteus, MATLAB, LTSpice, OrCADX
+
+currently:
+  - 🔍  Seeking Embedded / VLSI internship (7th semester / final year)
+  - 📚  Learning RTOS fundamentals & SystemVerilog
+  - 🚗  Shipping ESP32-CAM Wi-Fi Surveillance Car
+
+fun_fact   : "I debug hardware and software — whichever breaks first 🔌"
 location   : Surat, Gujarat, India
-
-interests  :
-  - Embedded Systems & Firmware Development
-  - VLSI Design & Digital Circuits (Verilog / FPGA)
-  - IoT Hardware–Software Integration
-  - PCB Design & Circuit Simulation
-
-currently  : Seeking internship in Embedded Systems / VLSI Design
+portfolio  : https://prashantgtu.github.io/Portfolio/
 ```
 
-I love working where hardware meets software — programming microcontrollers in bare-metal
-Embedded C, designing digital circuits in Verilog HDL, and building IoT systems from
-circuit-level design all the way through to a web-based user interface.
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prashantgtu&theme=algolia&no-frame=true&no-bg=false&margin-w=8&row=1&column=7&rank=-C" alt="GitHub Trophies"/>
+</p>
 
 ---
--->
 
 ## 🔧 Tech Stack
 
 ### ⚙️ Programming Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Embedded C](https://img.shields.io/badge/Embedded_C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-FF6B35?style=for-the-badge&logoColor=white)
+
+![C](https://img.shields.io/badge/C-ffffff?style=for-the-badge&logo=c&logoColor=131313)
+![Embedded C](https://img.shields.io/badge/Embedded_C-ffffff?style=for-the-badge&logo=c&logoColor=131313)
+![C++](https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=131313)
+![Python](https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=131313)
+![Verilog HDL](https://img.shields.io/badge/Verilog_HDL-ffffff?style=for-the-badge&logoColor=131313)
 
 ### 🛠️ Tools & Software
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
-![Proteus](https://img.shields.io/badge/Proteus-1BA0D7?style=for-the-badge&logoColor=white)
-![Xilinx ISE](https://img.shields.io/badge/Xilinx_ISE-E01F27?style=for-the-badge&logo=amd&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Keil µVision](https://img.shields.io/badge/Keil_µVision-003C78?style=for-the-badge&logoColor=white)
-![LTSpice](https://img.shields.io/badge/LTSpice-900C3F?style=for-the-badge&logoColor=white)
-![OrCADX](https://img.shields.io/badge/OrCADX-FF6600?style=for-the-badge&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![MATLAB](https://img.shields.io/badge/MATLAB-ffffff?style=for-the-badge&logo=mathworks&logoColor=131313)
+![Proteus](https://img.shields.io/badge/Proteus-ffffff?style=for-the-badge&logoColor=131313)
+![Xilinx ISE](https://img.shields.io/badge/Xilinx_ISE-ffffff?style=for-the-badge&logo=amd&logoColor=131313)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-ffffff?style=for-the-badge&logo=arduino&logoColor=131313)
+![Keil µVision](https://img.shields.io/badge/Keil_µVision-ffffff?style=for-the-badge&logoColor=131313)
+![LTSpice](https://img.shields.io/badge/LTSpice-ffffff?style=for-the-badge&logoColor=131313)
+![OrCADX](https://img.shields.io/badge/OrCADX-ffffff?style=for-the-badge&logoColor=131313)
+![Git](https://img.shields.io/badge/Git-ffffff?style=for-the-badge&logo=git&logoColor=131313)
+![GitHub](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=131313)
+![Linux](https://img.shields.io/badge/Linux-ffffff?style=for-the-badge&logo=linux&logoColor=131313)
 
 ### 🔌 Hardware Platforms
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
-![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-0091BD?style=for-the-badge&logo=arm&logoColor=white)
-![FPGA](https://img.shields.io/badge/FPGA-FF6B35?style=for-the-badge&logoColor=white)
-![PCB Design](https://img.shields.io/badge/PCB_Design-009900?style=for-the-badge&logoColor=white)
+
+![ESP32](https://img.shields.io/badge/ESP32-ffffff?style=for-the-badge&logo=espressif&logoColor=131313)
+![ESP8266](https://img.shields.io/badge/ESP8266-ffffff?style=for-the-badge&logo=espressif&logoColor=131313)
+![Arduino](https://img.shields.io/badge/Arduino-ffffff?style=for-the-badge&logo=arduino&logoColor=131313)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-ffffff?style=for-the-badge&logo=raspberrypi&logoColor=131313)
+![ARM Cortex](https://img.shields.io/badge/ARM_Cortex-ffffff?style=for-the-badge&logo=arm&logoColor=131313)
+![FPGA](https://img.shields.io/badge/FPGA-ffffff?style=for-the-badge&logoColor=131313)
+![PCB Design](https://img.shields.io/badge/PCB_Design-ffffff?style=for-the-badge&logoColor=131313)
 
 ### 📡 Communication Protocols
-![UART](https://img.shields.io/badge/UART-555555?style=for-the-badge&logoColor=white)
-![SPI](https://img.shields.io/badge/SPI-555555?style=for-the-badge&logoColor=white)
-![I2C](https://img.shields.io/badge/I²C-555555?style=for-the-badge&logoColor=white)
-![Wi-Fi](https://img.shields.io/badge/Wi--Fi-0078D7?style=for-the-badge&logo=wi-fi&logoColor=white)
+
+![UART](https://img.shields.io/badge/UART-ffffff?style=for-the-badge&logoColor=131313)
+![SPI](https://img.shields.io/badge/SPI-ffffff?style=for-the-badge&logoColor=131313)
+![I2C](https://img.shields.io/badge/I²C-ffffff?style=for-the-badge&logoColor=131313)
+![Wi-Fi](https://img.shields.io/badge/Wi--Fi-ffffff?style=for-the-badge&logoColor=131313)
+![IoT](https://img.shields.io/badge/IoT-ffffff?style=for-the-badge&logoColor=131313)
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚗 ESP32-CAM Wi-Fi Surveillance Car
-> `ESP32-CAM` `ESP32` `Embedded C/C++` `HTML/CSS` `Wi-Fi` `Embedded Web Server` `Motor Driver` `IoT`
-
-An IoT-based surveillance vehicle with **real-time video streaming** controlled entirely from a
-browser — no app, no cloud dependency, pure embedded web server on the ESP32.
-
-- Dual-MCU architecture: ESP32-CAM handles video; ESP32 handles navigation firmware
-- Built a lightweight embedded web server on the ESP32 serving a responsive HTML/CSS control dashboard
-- Engineered motor driver firmware for precise, low-latency directional control over Wi-Fi
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prashantgtu/YOUR_REPO_NAME)
+| Project | Tech Stack | Impact |
+| --- | --- | --- |
+| 🚗 **[ESP32-CAM Wi-Fi Surveillance Car](https://github.com/prashantgtu/REPO_SURVCAR)** | `ESP32-CAM` `ESP32` `Embedded C/C++` `Web Server` `IoT` | Full browser-controlled vehicle — no external app needed |
+| 🔒 **[Smart Anti-Theft Alarm System](https://github.com/prashantgtu/REPO_ANTITHEFT)** | `ESP32` `Embedded C` `Arduino IDE` `Telegram Bot API` | Dual-alert security — breach-to-notification in **<1 second** |
+| 🤖 **[Facial Recognition + Anti-Spoof](https://prashantgtu.github.io/Portfolio/)** | `Python` `OpenCV` `CNN` `Deep Learning` | Blocks photo & video spoofing — GTU Research Project |
 
 ---
 
-### 🔒 Smart Anti-Theft Alarm System
-> `ESP32` `Embedded C` `Arduino IDE` `Reed Switch` `Buzzer` `Telegram Bot API` `IoT`
+## 📊 GitHub Stats
 
-Real-time IoT intrusion detection system with a **dual-alert mechanism** — local buzzer
-activation and instant Telegram Bot push notifications.
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=prashantgtu&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00B4D8&icon_color=00B4D8&text_color=ffffff&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgtu&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=00B4D8&text_color=ffffff&langs_count=8" alt="Top Languages"/>
+</p>
 
-- Programmed complete interrupt-driven firmware from scratch in Embedded C on Arduino IDE
-- Achieved breach-to-alert latency of **under 1 second** using hardware interrupts
-- Integrated Telegram Bot API for instant mobile notifications on breach events
-
-[![View on GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/prashantgtu/YOUR_REPO_NAME)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=prashantgtu&theme=dark&background=0D1117&ring=00B4D8&fire=00B4D8&currStreakLabel=00B4D8&hide_border=true&dates=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+</p>
 
 ---
 
-### 🤖 Facial Recognition System with Anti-Spoof Mechanism
-> `Python` `OpenCV` `CNN` `Anti-Spoofing` `Deep Learning` | *Associated with GTU*
+## 📈 Contribution Activity
 
-Deep learning-based face recognition system with built-in liveness detection to block
-photo and video-based spoofing attacks.
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pras-02&theme=react-dark&area=true&hide_border=true&color=00B4D8&line=023E8A&point=00B4D8&bg_color=0D1117" alt="Contribution Activity Graph"/>
+</p>
 
-- Implemented CNN-based anti-spoofing layer to distinguish real faces from static/video replays
-- End-to-end pipeline from image acquisition to identity verification
+---
 
-<!--[![View Portfolio](https://img.shields.io/badge/View_Portfolio-FF5722?style=flat-square&logo=google-chrome&logoColor=white)](https://prashantgtu.github.io/Portfolio/) -->
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prashantgtu/prashantgtu/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prashantgtu/prashantgtu/output/github-contribution-grid-snake.svg"/>
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/prashantgtu/prashantgtu/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</p>
 
 ---
 
 ## 📜 Certifications
 
-| # | Certification | Issuer | Year |
+| | Certification | Issuer | Year |
 |---|---|---|---|
-| 🟠 | Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle | Oct 2025 |
-| 🔵 | Develop Gen AI Apps with Gemini and Streamlit (Skill Badge) | Google | Oct 2025 |
+| 🔶 | Oracle Cloud Infrastructure 2025 Certified Generative AI Professional | Oracle | Oct 2025 |
+| 🔵 | Develop Gen AI Apps with Gemini and Streamlit — Skill Badge | Google | Oct 2025 |
 | 🔴 | CS50's Introduction to Programming with Python | Harvard / edX | 2025 |
 
-> 📌 *Currently completing: NPTEL — Hardware Modeling using Verilog (IIT Kharagpur)*
-
 ---
-<!--
-## 📊 GitHub Stats
 
-<div align="center">
+## 💬 Dev Quote
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=prashantgtu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashantgtu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=prashantgtu&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&bg_color=0D1117&text_color=ffffff" alt="Random Dev Quote"/>
+</p>
 
 ---
 
+<!-- ══ WAVE FOOTER ══════════════════════════════════════════════ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:023E8A,100:0D1117&height=120&section=footer" alt="Footer"/>
+
+<p align="center">
+  <i>Designed by <b>Prashant Kushwaha</b> — Embedded Systems &amp; VLSI Enthusiast · Surat, Gujarat</i>
+</p>
 
 
-## 💼 Experience
-
-**HR Intern — Marpu Foundation NGO** *(May 2024 – Jun 2024)*
-Streamlined recruitment pipeline and drove candidate engagement across digital platforms —
-built structured data collection systems reducing manual coordination time.
-
----
--->
-
-## 📫 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|---|---|
-| 💼 LinkedIn | [linkedin.com/in/prashantkushwaha-ec](https://linkedin.com/in/prashantkushwaha-ec) |
-| 🌐 Portfolio | [prashantgtu.github.io/Portfolio](https://prashantgtu.github.io/Portfolio/) |
-| 📧 Email | [kushwaha7757@gmail.com](mailto:kushwaha7757@gmail.com) |
-| 📍 Location | Surat, Gujarat, India |
-
-**👉 Open to:** Embedded Systems Internship &nbsp;|&nbsp; VLSI Design Internship &nbsp;|&nbsp; Firmware Engineering
-
-</div>
-
----
-
-<div align="center">
-
-*⚡ "Building circuits that talk to the world — one embedded system at a time." ⚡*
-
-</div>
